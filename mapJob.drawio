@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Страница — 1" id="1Tviu7JsMIi4VgmEqaAh">
-    <mxGraphModel>
+    <mxGraphModel dx="667" dy="343" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI8qAEYMPlwH7lxyuwAD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI8qAEYMPlwH7lxyuwAD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-2" value="React Native" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="162" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-4" value="FlatList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="252" width="108" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI8qAEYMPlwH7lxyuwAD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="783" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-6" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-8" value="&lt;span style=&quot;color: rgb(42, 49, 55); font-family: &amp;quot;hh sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;REST&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="243" width="108" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-9" value="&lt;span style=&quot;color: rgb(42, 49, 55); font-family: &amp;quot;hh sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;GraphQL + Apollo&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="252" width="145" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.359;entryY=-0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dI8qAEYMPlwH7lxyuwAD-6" target="dI8qAEYMPlwH7lxyuwAD-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="873" y="242" />
+              <mxPoint x="866" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dI8qAEYMPlwH7lxyuwAD-16" value="Знание основ безопасности в React Native (например, хранение данных, шифрование)" style="rounded=0;whiteSpace=wrap;html=1;spacing=4;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="99" y="226.5" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
